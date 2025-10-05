@@ -1,4 +1,4 @@
-module github.com/UniDropOfficial/unicore-go
+module github.com/unidropofficial/unicore-go
 
 go 1.24.0
 
